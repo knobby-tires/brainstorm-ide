@@ -1,0 +1,15 @@
+{
+  "name": "brainfuck_compiler",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "brainfuck_compiler_bg.wasm",
+    "brainfuck_compiler.js",
+    "brainfuck_compiler.d.ts"
+  ],
+  "main": "brainfuck_compiler.js",
+  "types": "brainfuck_compiler.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
