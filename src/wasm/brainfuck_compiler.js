@@ -210,7 +210,7 @@ function __wbg_get_imports() {
     return imports;
 }
 
-function __wbg_init_memory(imports, memory) {
+function __wbg_init_memory() {
 
 }
 

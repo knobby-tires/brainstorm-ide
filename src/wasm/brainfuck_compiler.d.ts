@@ -1,5 +1,3 @@
-/* tslint:disable */
-
 export function compile_and_run(input: string): ExecutionResult;
 export class ExecutionResult {
   private constructor();
